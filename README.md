@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DiegoHABrasil
 - 
-- 👀 I've worked with and i'm interested in C, C++, C#, Python, Javascript, NodeJS, HTML5,  CSS, VHDL and QTCreator.
+- 👀 I've worked with and i'm interested in C, C++, C#, Python, Javascript, NodeJS, HTML5,  CSS, VHDL, QTCreator and some protocols like I2C and others.
 - Also, i've worked with R and SQL (for Power BI applications)
 - 
 - 🌱 I’m currently learning Open CV, HTML5, Javascript, CSS, Bootstrap and NodeJS
