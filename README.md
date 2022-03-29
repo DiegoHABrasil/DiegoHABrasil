@@ -4,7 +4,7 @@
 - Also, i've worked with R and SQL (for Power BI applications)
 - I also have experience with Arduino, STM32, Cortex and some others hardware applications
 - 
-- 🌱 I’m currently learning Open CV, HTML5, Javascript, CSS, Bootstrap and NodeJS
+- 🌱 I’m currently (and always) learning Python, C++, Open CV, HTML5, Javascript, CSS, Bootstrap and NodeJS
 - 
 - 💞️ I’m looking to collaborate on projects with my learning languages of development
 - 
