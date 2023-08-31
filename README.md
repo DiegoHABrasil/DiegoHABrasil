@@ -8,7 +8,7 @@
 - 
 - 💞️ I’m looking to collaborate on projects with my learning languages of development
 - 
-- 📫 How to reach me: diegohabrasil@gmail.com or diego.hamed@edu.pucrs.br
+- 📫 How to reach me: diegohabrasil@gmail.com
 
 <!---
 DiegoHABrasil/DiegoHABrasil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
